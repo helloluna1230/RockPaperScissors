@@ -1,2 +1,6 @@
 # RockPaperScissors
-Rock, paper, scissors Game
+开发一个石头剪刀布游戏应用程序 
+使用Flask框架
+用户选择“石头”、“剪刀”或“布”进行游戏。 
+允许用户通过点击按钮提交他们的选择。 
+逻辑判断胜负，每一轮后向用户展示结果。
